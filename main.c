@@ -60,7 +60,16 @@ void moverPacman(int*x , int* y, int *oldX, int* oldY, int* direccion, SDLKey ke
 			break;
 	}
 }
-
+/*
+*
+*
+*
+*Comentarios de prueba para git
+*
+*
+*
+*
+*/
 
 
 
